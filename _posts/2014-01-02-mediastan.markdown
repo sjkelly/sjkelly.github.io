@@ -16,4 +16,4 @@ The main criticism I am making of this documentary is the implication that peopl
 It seems that leaks are damaging things faster than we can fix things. This is what I believe scares people. Regardless, solutions are needed and I am sure smart people will find them. Indeed it seems the [Fifth Estate](https://en.wikipedia.org/wiki/Fifth_Estate) is really here, and will not be broken. This film shows they are not crazy, nor malicious. Rather they seek to display the truth for all to see. The solutions, initially, seem really crazy. The disparity between the problems presented and possible solutions is attributed, as malice, to the reporters. It seems we are shooting the messengers.
 
 
-WikiLeaks has a [page on Mediastan](http://wikileaks.org/Watch-MEDIASTAN.html), and you [view it on YouTube](https://www.youtube.com/watch?v=_tMiJOn8gW8).
+WikiLeaks has a [page on Mediastan](http://wikileaks.org/Watch-MEDIASTAN.html), and you can [view it on YouTube](https://www.youtube.com/watch?v=_tMiJOn8gW8).
