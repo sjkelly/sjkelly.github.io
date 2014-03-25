@@ -12,8 +12,6 @@ I'm not here to complain about this without adequate understanding. I realized t
 When we say "they", we mentally remove ourselves. "We" = "I" + "They".
  Which is to say "They" = "We" - "I".
 
-There was a time 2 years ago when my world view was heavily directed by the implications of 3D printing on economic participation. I strongly felt we were on the cusp of [wealth without money](http://reprap.org/wiki/Wealth_Without_Money) and each human becoming a toolmaker. I honestly still believe these are things that we should strive for, but to impose them prematurely might destroy our ability to capitalize on the present and [long term progress](https://www.youtube.com/watch?v=9rys_saLiDA). I understand better that we are all participating in the progression of the human race. 
-
 Through taxes or the economic chain, we are all helping to make science and engineering possible. When we say "they" we start to remove the possibility of participation. I'd like to think that everyone _could_ do science and engineering if they wanted to. I believe that our language and dogmatic notions of science being difficult prevent us from trying to participate. 
 
 People could say "they" because they forgot who did the work. I think that is admissible, but should be stated. "People at some lab have figured out how to [record photons](http://web.media.mit.edu/~raskar/trillionfps/), OMGWTFBBQ!"
