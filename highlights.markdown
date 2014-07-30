@@ -7,6 +7,8 @@ title: highlights
     <a class="extra" href="{{ site.baseurl }}/highlights/the_doors_of_perception.html">The Doors of Perception by Aldous Huxley</a>
     <br />
     <a class="extra" href="{{ site.baseurl }}/highlights/stoner.html">Stoner by John Williams</a>
+    <br />
+    <a class="extra" href="{{ site.baseurl }}/highlights/slaughterhouse_five.html">Slaughterhouse-Five by Kurt Vonnegut</a>
 </div>
 
 <hr />
