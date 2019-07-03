@@ -1,6 +1,0 @@
-markdown: kramdown
-highlighter: pygments
-url: "http://sjkelly.me"
-baseurl: "http://sjkelly.me"
-gems:
-  - jekyll-sitemap
